@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hej, idag var det soligt!
 <!--
 **TwoPlusTwoMakeFour/TwoPlusTwoMakeFour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
